@@ -1,3 +1,4 @@
 first commit
 test
 study1
+conflict
