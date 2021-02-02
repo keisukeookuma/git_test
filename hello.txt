@@ -2,3 +2,4 @@ first commit
 test
 study1
 study2
+conflict
